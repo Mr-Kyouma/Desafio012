@@ -64,7 +64,7 @@ header a:hover {
     font-size: 18px;
     line-height: 2.0;
     background-image: url('imagens/background001.jpg');
-    background-position: center center;
+    background-position: right center;
     background-size: cover;
     background-attachment: fixed;
 }
